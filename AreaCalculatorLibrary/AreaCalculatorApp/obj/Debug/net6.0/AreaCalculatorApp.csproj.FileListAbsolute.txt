@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\TimothyProjects\PreView\AreaCalculatorLibrary\AreaCalculatorApp\obj\Debug\net6.0\AreaCalculatorApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TimothyProjects\PreView\AreaCalculatorLibrary\AreaCalculatorApp\obj\Debug\net6.0\AreaCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TimothyProjects\PreView\AreaCalculatorLibrary\AreaCalculatorApp\obj\Debug\net6.0\AreaCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TimothyProjects\PreView\AreaCalculatorLibrary\AreaCalculatorApp\obj\Debug\net6.0\AreaCalculatorApp.AssemblyInfo.cs
+C:\Users\User\Desktop\TimothyProjects\PreView\AreaCalculatorLibrary\AreaCalculatorApp\obj\Debug\net6.0\AreaCalculatorApp.csproj.CoreCompileInputs.cache
